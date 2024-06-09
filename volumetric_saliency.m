@@ -1,9 +1,8 @@
 clc; clear all;
 addpath('rgbd/')
-addpath('C:/Users/Vision Lab/Desktop/rgb-d/code/code/segmentation/')
+%addpath('data/')
 addpath('C:/Users/Vision Lab/Desktop/rgb-d/code/code/')
-addpath('C:\Users\Vision Lab\Desktop\rgb-d\code\code\segmentation\mat files\workspace')
-addpath('C:\Users\Vision Lab\Desktop\rgb-d\code\code\segmentation\segresults\labels\')
+
 
 Database=load('nyu_depth_v2_labeled.mat');
 rgbimg=Database.images;  %%rgb images
