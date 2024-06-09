@@ -9,5 +9,7 @@ This repo contains the implementation of the paper, "A Volumetric Saliency Guide
  You can download the NYU depth v2 dataset from https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html
 
 # Code
-seg_as_newimg: extract each segment as a new image by masking and zero padding the original RGB image.
+seg_as_newimg.m : extract each segment as a new image by masking and zero padding the original RGB image.
+volumetric_saliency.m : Volumetric saliency map prediction.
+Visual_summ.m : Generate saliency-guided image summary.
 
