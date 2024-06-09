@@ -2,7 +2,7 @@
 This repo contains the data used in the paper, " A Volumetric Saliency Guided Image Summarization for RGB-D Indoor Scene Classification", IEEE Transactions on Circuits and Systems for Video Technology, 2024.
 
 # Project page
-volumetricsaliencybasedsummary
+[volumetricsaliencybasedsummary](https://sites.google.com/iitj.ac.in/volumetricsaliencybasedsummary?usp=sharing)
 
 
 # Dataset structure
