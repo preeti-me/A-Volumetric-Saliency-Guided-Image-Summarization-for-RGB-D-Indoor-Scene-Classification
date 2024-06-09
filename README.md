@@ -1,5 +1,8 @@
-# Volumetric-Saliency-Guided-Image-Summarization-for-RGB-D-Indoor-Scene-Classification
+# A Volumetric-Saliency-Guided-Image-Summarization-for-RGB-D-Indoor-Scene-Classification
 This repo contains the data used in the paper, " A Volumetric Saliency Guided Image Summarization for RGB-D Indoor Scene Classification", IEEE Transactions on Circuits and Systems for Video Technology, 2024.
+
+# Project page
+https://sites.google.com/d/1rOGiTYfO7MYpbl4_eikzGlXBR_KKNYzr/p/1ypOJEOZtc1I6KgbDMqBbyI-xXuIttmPh/edit
 
 
 # Dataset structure
