@@ -1,7 +1,6 @@
 clc; clear all;
 addpath('rgbd/')
-%addpath('data/')
-addpath('C:/Users/Vision Lab/Desktop/rgb-d/code/code/')
+addpath('data/')
 
 
 Database=load('nyu_depth_v2_labeled.mat');
