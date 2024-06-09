@@ -4,6 +4,5 @@
 # Project page
 [volumetricsaliencybasedsummary](https://sites.google.com/iitj.ac.in/volumetricsaliencybasedsummary?usp=sharing)
 
-# Code
 
 
