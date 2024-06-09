@@ -15,3 +15,15 @@ volumetric_saliency.m : Volumetric saliency map prediction.
 
 Visual_summ.m : Generate saliency-guided image summary.
 
+# Citation
+If you use volumetric saliency in your research, please use the following BibTeX entry.
+
+```bash
+@article{meena2024volumetric,
+  title={A Volumetric Saliency Guided Image Summarization for RGB-D Indoor Scene Classification},
+  author={Meena, Preeti and Kumar, Himanshu and Yadav, Sandeep},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  publisher={IEEE},
+  DOI= 10.1109/TCSVT.2024.3412949
+}
