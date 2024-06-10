@@ -7,6 +7,8 @@ This repo contains the implementation of the paper, "A Volumetric Saliency Guide
 
 # Dataset
  You can download the NYU depth v2 dataset from https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html
+ 
+ GT folder contains the grountruth volumetric saliency maps for evaluation.
 
 # Code
 seg_as_newimg.m : extract each segment as a new image by masking and zero padding the original RGB image.
