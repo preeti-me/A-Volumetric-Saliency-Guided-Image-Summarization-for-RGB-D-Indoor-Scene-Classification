@@ -15,6 +15,8 @@ volumetric_saliency.m : Volumetric saliency map prediction.
 
 Visual_summ.m : Generate saliency-guided image summary.
 
+download the segmention result/label matrix from https://drive.google.com/file/d/1bpWANX0AHfu-NUP7dPlvEU5cYE8F9ytE/view?usp=sharing and put it in data folder.
+
 # Citation
 If you use volumetric saliency in your research, please use the following BibTeX entry.
 
