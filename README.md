@@ -13,7 +13,7 @@ This repo contains the implementation of the paper, "A Volumetric Saliency Guide
 # Code
 seg_as_newimg.m : extract each segment as a new image by masking and zero padding the original RGB image.\
 volumetric_saliency.m : Volumetric saliency map prediction.\
-Visual_summ.m : Generate saliency-guided image summary.\
+Visual_summ.m : Generate saliency-guided image summary.
 
 download the segmention result/label matrix from https://drive.google.com/file/d/1bpWANX0AHfu-NUP7dPlvEU5cYE8F9ytE/view?usp=sharing and put it in data folder.
 
