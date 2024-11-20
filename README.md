@@ -21,14 +21,11 @@ download the segmention result/label matrix from https://drive.google.com/file/d
 If you use volumetric saliency in your research, please use the following BibTeX entry.
 
 ```bash
-@ARTICLE{10553299,
+@article{meena2024volumetric,
+  title={A Volumetric Saliency Guided Image Summarization for RGB-D Indoor Scene Classification},
   author={Meena, Preeti and Kumar, Himanshu and Yadav, Sandeep},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={A Volumetric Saliency Guided Image Summarization for RGB-D Indoor Scene Classification}, 
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Feature extraction;Visualization;Probabilistic logic;Object detection;Image color analysis;Circuits and systems;Three-dimensional displays;Image Summarization;RGB-D image;Volumetric saliency;Saliency},
+  publisher={IEEE},
   doi={10.1109/TCSVT.2024.3412949}}
 
