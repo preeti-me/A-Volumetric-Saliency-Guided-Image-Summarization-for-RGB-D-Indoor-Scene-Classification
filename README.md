@@ -26,6 +26,6 @@ If you use volumetric saliency in your research, please use the following BibTeX
   author={Meena, Preeti and Kumar, Himanshu and Yadav, Sandeep},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2024},
-  publisher={IEEE},
-  doi={10.1109/TCSVT.2024.3412949}}
+  publisher={IEEE}
+}
 
