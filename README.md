@@ -1,8 +1,6 @@
 # Image-Summarization
 This repo contains the implementation of the paper, "A Volumetric Saliency Guided Image Summarization for RGB-D Indoor Scene Classification", IEEE Transactions on Circuits and Systems for Video Technology, 2024.
 
-
-# Page
 [volumetricsaliencybasedsummary](https://sites.google.com/iitj.ac.in/volumetricsaliencybasedsummary?usp=sharing)
 
 # Dataset
@@ -10,7 +8,7 @@ This repo contains the implementation of the paper, "A Volumetric Saliency Guide
  
  GT folder contains the grountruth volumetric saliency maps for evaluation.
 
-# Code
+# Usage
 seg_as_newimg.m : extract each segment as a new image by masking and zero padding the original RGB image.\
 volumetric_saliency.m : Volumetric saliency map prediction.\
 Visual_summ.m : Generate saliency-guided image summary.
